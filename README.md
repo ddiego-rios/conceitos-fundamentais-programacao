@@ -2,7 +2,7 @@
 
 Projeto desenvolvido em aula no âmbito da formação de **Conceitos Fundamentais de Programação**.
 
-Este repositório reúne os exercícios e trabalhos práticos realizados durante as aulas, utilizando ficheiros do ambiente de programação RAP.
+Este repositório reúne os exercícios e trabalhos práticos realizados durante as aulas, utilizando ficheiros do **RAPTOR**, um software de criação e execução de fluxogramas para aprendizagem de programação. Os ficheiros `.rap` são a extensão utilizada pelo RAPTOR para guardar os fluxogramas.
 
 ## Sobre o autor
 
